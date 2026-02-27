@@ -1,5 +1,5 @@
 # Trash Classifier 
-This program, written in Jupyter Notebook, uses Numpy, Pandas, and TensoFlow to classify images of trash into one of the following categories:
+This program, written in Jupyter Notebook, uses Numpy, Pandas, and TensorFlow to classify images of trash into one of the following categories:
 1. Bottles
 2. Cans
 4. Tires
